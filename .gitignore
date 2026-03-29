@@ -1,0 +1,6 @@
+.pio
+.pioenvs
+.piolibdeps
+.vscode
+**workspace
+secrets_config.ini
